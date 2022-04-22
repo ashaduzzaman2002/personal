@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/my-cv/static/css/main.8c480fe3.css",
-    "main.js": "/my-cv/static/js/main.ca0c2e23.js",
-    "static/media/me3.jpg": "/my-cv/static/media/me3.b38495a6d89715c960a5.jpg",
-    "static/media/img5.webp": "/my-cv/static/media/img5.58d82b3174449af75094.webp",
-    "static/media/me2.png": "/my-cv/static/media/me2.9c55977f0c6f437bdb84.png",
-    "static/media/img6.webp": "/my-cv/static/media/img6.d0be4d36fae2f16f9e0e.webp",
-    "static/media/img1.webp": "/my-cv/static/media/img1.829ce5a9a6976809e6ff.webp",
-    "static/media/img2.webp": "/my-cv/static/media/img2.01ac995abc4e91f27218.webp",
-    "static/media/img3.webp": "/my-cv/static/media/img3.d40cad5036c61da91a13.webp",
-    "static/media/img4.webp": "/my-cv/static/media/img4.4ad87dd3ed954cd1d39c.webp",
-    "static/media/black-linen.png": "/my-cv/static/media/black-linen.8a1abc775dec4ce9e1d1.png",
-    "static/media/Resume.pdf": "/my-cv/static/media/Resume.f3e474321fbd2f824f91.pdf",
-    "index.html": "/my-cv/index.html",
-    "main.8c480fe3.css.map": "/my-cv/static/css/main.8c480fe3.css.map",
-    "main.ca0c2e23.js.map": "/my-cv/static/js/main.ca0c2e23.js.map"
+    "main.css": "/personal/static/css/main.386e0fb4.css",
+    "main.js": "/personal/static/js/main.9a96e1f5.js",
+    "static/media/me3.jpg": "/personal/static/media/me3.b38495a6d89715c960a5.jpg",
+    "static/media/img5.webp": "/personal/static/media/img5.58d82b3174449af75094.webp",
+    "static/media/me2.png": "/personal/static/media/me2.9c55977f0c6f437bdb84.png",
+    "static/media/img6.webp": "/personal/static/media/img6.d0be4d36fae2f16f9e0e.webp",
+    "static/media/img1.webp": "/personal/static/media/img1.829ce5a9a6976809e6ff.webp",
+    "static/media/img2.webp": "/personal/static/media/img2.01ac995abc4e91f27218.webp",
+    "static/media/img3.webp": "/personal/static/media/img3.d40cad5036c61da91a13.webp",
+    "static/media/img4.webp": "/personal/static/media/img4.4ad87dd3ed954cd1d39c.webp",
+    "static/media/black-linen.png": "/personal/static/media/black-linen.8a1abc775dec4ce9e1d1.png",
+    "static/media/Resume.pdf": "/personal/static/media/Resume.f3e474321fbd2f824f91.pdf",
+    "index.html": "/personal/index.html",
+    "main.386e0fb4.css.map": "/personal/static/css/main.386e0fb4.css.map",
+    "main.9a96e1f5.js.map": "/personal/static/js/main.9a96e1f5.js.map"
   },
   "entrypoints": [
-    "static/css/main.8c480fe3.css",
-    "static/js/main.ca0c2e23.js"
+    "static/css/main.386e0fb4.css",
+    "static/js/main.9a96e1f5.js"
   ]
 }
